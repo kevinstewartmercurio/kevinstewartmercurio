@@ -1,4 +1,4 @@
-### Hi, I'm Kevin   🐸
+### Hi, I'm Kevin 🐸
 
 <!--
 **kstewartmercurio/kstewartmercurio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Software Developer and Mathematician
+
+- 📚 I double majored in Computer Science and Mathematics at Swarthmore College
+- 💻 I'm currently working on side projects and some freelance projects
+- ✉️ The best way to reach me is via email <a href="mailto:kevinstewartmercurio@gmail.com"kevinstewartmercurio@gmail.com</a>
