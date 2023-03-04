@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hi, I'm Kevin 🐸
+
 ### Software Developer and Mathematician
 
 - 📚 I double majored in Computer Science and Mathematics at Swarthmore College
