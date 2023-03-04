@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Kevin 🐸
+# Hi, I'm Kevin 👋
 
 ## Software Developer and Mathematician
 
