@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ## Software Developer and Mathematician
 
 - 📚 I double majored in Computer Science and Mathematics at Swarthmore College
-- 💻 I'm currently working on side projects and some freelance projects
+- 💻 I'm currently working on an Ecommerce business
 - ✉️ The best way to reach me is via email [kevinstewartmercurio@gmail.com](mailto:kevinstewartmercurio@gmail.com) 
