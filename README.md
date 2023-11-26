@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 # Hi, I'm Kevin 👋
 
-![image](https://github-readme-activity-graph.vercel.app/graph?username=kevinstewartmercurio&theme=tokyo-night)
-
 ## 👨‍🎓 About Me
 
 - 📚 I double majored in Computer Science and Mathematics at Swarthmore College
