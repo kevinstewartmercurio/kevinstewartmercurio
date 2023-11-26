@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 # Hi, I'm Kevin 👋
 
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinstewartmercurio&theme=synthwave)
+
 ## 👨‍🎓 About Me
 
 - 📚 I double majored in Computer Science and Mathematics at Swarthmore College
@@ -41,10 +43,7 @@ Check out my [website](https://www.kevinstewartmercurio.com) to learn a bit more
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
-<div style={{ display: 'flex' }>
-  ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinstewartmercurio&theme=tokyonight)
-  ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=tokyonight)
-</div>
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinstewartmercurio&theme=synthwave)
 
 ## ✉️ Contact
 The best way to reach me is via email [kevinstewartmercurio@gmail.com](mailto:kevinstewartmercurio@gmail.com).
