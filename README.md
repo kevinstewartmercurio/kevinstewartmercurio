@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 💻 I'm currently working on personal projects and projects for my community
 - 👨‍🏫 Recently I've been reading and learning about quantum computing
 
-Check out my [website](https://www.kevinstewartmercurio.com) to learn a bit more about me.
+Check out my [website](https://www.kevinstewartmercurio.com) to learn a bit more about me!
 
 ## 👨‍💻 Tools I Use
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
