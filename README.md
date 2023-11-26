@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Kevin 👋
 
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinstewartmercurio&theme=synthwave)
+![image](https://github-readme-activity-graph.vercel.app/graph?username=kevinstewartmercurio&theme=tokyo-night)
 
 ## 👨‍🎓 About Me
 
