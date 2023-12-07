@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 - 📚 I double majored in Computer Science and Mathematics at Swarthmore College
 - 💻 I'm currently working on personal projects and projects for my community
-- 👨‍🏫 Recently I've been reading and learning about quantum computing
 
 Check out my [website](https://www.kevinstewartmercurio.com) to learn a bit more about me!
 
