@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 👨‍🎓 About Me
 
 - 📚 I double majored in Computer Science and Mathematics at Swarthmore College
-- 💻 I'm currently working on personal projects and projects for my community
+- 💻 I'm currently a Software Developer at [Actual Size](https://actualsize.com/), a digital design and development agency based in Pittsburgh.
 
 Check out my [website](https://www.kevinstewartmercurio.com) to learn a bit more about me!
 
