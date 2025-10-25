@@ -45,4 +45,4 @@ Check out my [website](https://www.kevinstewartmercurio.com) to learn a bit more
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinstewartmercurio&layout=compact&theme=synthwave)
 
 ## ✉️ Contact
-The best way to reach me is via email [kevinstewartmercurio@gmail.com](mailto:kevinstewartmercurio@gmail.com).
+The best way to reach me is via email [kevinstewartmercurio@gmail.com](mailto:kevinstewartmercurio@gmail.com?subject=Howdy 👋).
